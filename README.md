@@ -8,6 +8,7 @@ The goal of this competition is to predict the age of abalone from various physi
 
 # Evaluation
 The evaluation metric for this competition is Root Mean Squared Logarithmic Error. The RMSLE is calculated as:
+
 √−−−−−−−−−−−−−−−−−−−−−−−−−−
 1n∑i=1n(log(1+y^i)−log(1+yi))2
 
